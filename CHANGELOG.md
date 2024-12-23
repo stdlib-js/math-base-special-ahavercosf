@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-15)
+## Unreleased (2024-12-23)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`c13062e`](https://github.com/stdlib-js/stdlib/commit/c13062e5b90cbe28ec62f0b690211bd14b626cf3) - **style:** update to use tabs for indentation _(by Philipp Burckhardt)_
 -   [`ff25e13`](https://github.com/stdlib-js/stdlib/commit/ff25e1324e1507cc076078e82badce7fdf7915f6) - **docs:** remove excess whitespace _(by Philipp Burckhardt)_
 -   [`04a838f`](https://github.com/stdlib-js/stdlib/commit/04a838fd4345e5a0b3e739e734b8fb1f21de56a3) - **chore:** use correct Makefile _(by Philipp Burckhardt)_
 -   [`72bf083`](https://github.com/stdlib-js/stdlib/commit/72bf083eb1bbc829eebbbff32f73fc2a202b2570) - **refactor:** update benchmarks and test fixtures in `math/base/special/ahavercosf` [(#3118)](https://github.com/stdlib-js/stdlib/pull/3118) _(by Gunj Joshi)_
