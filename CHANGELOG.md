@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-22)
+## Unreleased (2025-09-07)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`5dbe6e4`](https://github.com/stdlib-js/stdlib/commit/5dbe6e40efd490d36fb4c83d78444470d23886e0) - **chore:** add structured package data for packages in `math/base/special` [(#8033)](https://github.com/stdlib-js/stdlib/pull/8033) _(by Gunj Joshi)_
 -   [`5519603`](https://github.com/stdlib-js/stdlib/commit/551960360bdcf61a473e5844ce23c7c9f7717168) - **docs:** fix example code and return annotation values _(by Philipp Burckhardt)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`850472b`](https://github.com/stdlib-js/stdlib/commit/850472b35f4cf47cab44047acd94a9120d6d5b77) - **docs:** replace manual `for` loop in examples [(#6182)](https://github.com/stdlib-js/stdlib/pull/6182) _(by Karan Anand)_
