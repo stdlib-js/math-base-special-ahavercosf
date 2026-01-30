@@ -63,7 +63,7 @@ The [inverse half-value versed cosine][archavercosine] is defined as
 ## Usage
 
 ```javascript
-import ahavercosf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ahavercosf@deno/mod.js';
+import ahavercosf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ahavercosf@v0.1.0-deno/mod.js';
 ```
 
 #### ahavercosf( x )
@@ -107,7 +107,7 @@ v = ahavercosf( NaN );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import ahavercosf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ahavercosf@deno/mod.js';
+import ahavercosf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ahavercosf@v0.1.0-deno/mod.js';
 
 var x = uniform( 100, 0.0, 1.0, {
     'dtype': 'float32'
