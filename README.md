@@ -33,7 +33,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> Compute the [inverse half-value versed cosine][archavercosine] of a single-precision floating point number.
+> Compute the [inverse half-value versed cosine][archavercosine] of a single-precision floating-point number.
 
 <section class="intro">
 
@@ -86,7 +86,7 @@ var ahavercosf = require( '@stdlib/math-base-special-ahavercosf' );
 
 #### ahavercosf( x )
 
-Computes the [inverse half-value versed cosine][archavercosine] of a single-precision floating point number (in radians).
+Computes the [inverse half-value versed cosine][archavercosine] of a single-precision floating-point number (in radians).
 
 ```javascript
 var v = ahavercosf( 0.0 );
