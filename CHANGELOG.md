@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-19)
+## Unreleased (2026-08-20)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`0902b03`](https://github.com/stdlib-js/stdlib/commit/0902b03d126d351193fd22733163bf277d4306ee) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`72b23ea`](https://github.com/stdlib-js/stdlib/commit/72b23ea594cad1265cd358ade0e366d682f5858d) - **chore:** clean-up [(#14383)](https://github.com/stdlib-js/stdlib/pull/14383) _(by Philipp Burckhardt)_
 -   [`e7084f8`](https://github.com/stdlib-js/stdlib/commit/e7084f87773c6c9f20d3305e51cd2e47ff5700a9) - **test:** migrate `math/base/special/ahavercosf` to ULP-based testing [(#12773)](https://github.com/stdlib-js/stdlib/pull/12773) _(by Philipp Burckhardt)_
 -   [`9229dd7`](https://github.com/stdlib-js/stdlib/commit/9229dd78fa82c5f863dbc51a9588314d53a97c44) - **bench:** refactor to use string interpolation in `math/base/special` [(#11386)](https://github.com/stdlib-js/stdlib/pull/11386) _(by Karan Anand)_
